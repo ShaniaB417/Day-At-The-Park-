@@ -50,7 +50,10 @@ The main objectives of "Day at the Park" include:
 
 ## Photos
 
-![image](https://github.com/ShaniaB417/Day-At-The-Park-/assets/107355668/62576338-0282-489e-bcd0-dd62b5b94930)
+![image](https://github.com/ShaniaB417/Day-At-The-Park-/assets/107355668/5b87735c-3589-47b8-a8e6-d0be74287ad3)
+
+
+
 
 
 ## Conclusion
