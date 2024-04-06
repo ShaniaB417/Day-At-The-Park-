@@ -48,16 +48,19 @@ The main objectives of "Day at the Park" include:
 
 "Day at the Park" is tailored for gamers who enjoy simulation and virtual reality experiences. It caters to players who appreciate nature's beauty, understand the importance of cleanliness, and find satisfaction in helping others.
 
+
+## Conclusion
+
+"Day at the Park" offers a unique and engaging gameplay experience, allowing you to immerse yourself in the role of a park ranger. By leveraging Unity's powerful development capabilities and low poly assets, we've created a visually appealing and interactive virtual park environment. Join us on this exciting journey to make a difference in the park and bring joy to its visitors. Let's create unforgettable memories together!
+
 ## Photos
 
 ![image](https://github.com/ShaniaB417/Day-At-The-Park-/assets/107355668/5b87735c-3589-47b8-a8e6-d0be74287ad3)
 
 
-
-
-
 ## Conclusion
 
 "Day at the Park" offers a unique and engaging gameplay experience, allowing you to immerse yourself in the role of a park ranger. By leveraging Unity's powerful development capabilities and low poly assets, we've created a visually appealing and interactive virtual park environment. Join us on this exciting journey to make a difference in the park and bring joy to its visitors. Let's create unforgettable memories together!
+
 
 
