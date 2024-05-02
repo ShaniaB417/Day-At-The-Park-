@@ -1,8 +1,14 @@
-# Day at the Park
+# Day at the Park 🌱
 
 Welcome to **Day at the Park**!
 
 "Day at the Park" is an immersive virtual reality game that puts you in the shoes of a park ranger. Your mission? To maintain the cleanliness, beauty, and functionality of the park while ensuring the satisfaction of its visitors.
+
+## Demo
+
+Check out the demo of "Day at the Park" here 👇🏾:
+
+[![Day at the Park Demo](https://img.youtube.com/vi/DFgbKf2IxE8/0.jpg)](https://youtu.be/DFgbKf2IxE8)
 
 ## Game Concept
 
@@ -61,7 +67,7 @@ The main objectives of "Day at the Park" include:
 ![IMG_6801](https://github.com/ShaniaB417/Day-At-The-Park-/assets/107355668/429d7d6f-f669-4f9c-b3f9-63833de75ca0)
 
 
-## Contributors
+## Contributors ⭐️
 
 - [Marissa Lubow](https://github.com/marissalubow)
 - [Lunarking030](https://github.com/Lunarking030)
